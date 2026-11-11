@@ -1,0 +1,20 @@
+# Outils d’assistance au développement
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+
+# Secrets et environnement
+.env
+.env.*
+*.pem
+*.p8
+
+# Dépendances, build, Vercel
+node_modules/
+.vercel/
+dist/
+
+# Système
+.DS_Store
+Thumbs.db
