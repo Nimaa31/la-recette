@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Docteur Love">
+  <!-- Docteur Love : même dessin que src/components/ui/doctor-love.tsx -->
+  <path d="M60 108C22 80 8 56 8 39 8 22 21 11 36 11c10 0 19 5 24 14 5-9 14-14 24-14 15 0 28 11 28 28 0 17-14 41-52 69Z" fill="#E5484D"/>
+  <path d="M60 108c38-28 52-52 52-69 0-9-4-17-10-22 4 26-12 54-48 86l6 5Z" fill="#C93A40"/>
+  <path d="M17 27C30 15 44 10 60 10s30 5 43 17" fill="none" stroke="#1B1D22" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="60" cy="13" r="11" fill="#DDE5EF" stroke="#1B1D22" stroke-width="4"/>
+  <circle cx="60" cy="13" r="3.4" fill="#1B1D22"/>
+  <circle cx="42" cy="50" r="14" fill="#FFFFFF" stroke="#1B1D22" stroke-width="4.5"/>
+  <circle cx="78" cy="50" r="14" fill="#FFFFFF" stroke="#1B1D22" stroke-width="4.5"/>
+  <path d="M56 48c2.5-2 5.5-2 8 0" fill="none" stroke="#1B1D22" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="43" cy="51" r="4.2" fill="#1B1D22"/>
+  <path d="M71 52c4-5 10-5 14 0" fill="none" stroke="#1B1D22" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M47 76c8 8 18 8 26 0" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>
